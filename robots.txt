@@ -1,0 +1,9 @@
+# robots.txt for petrolpumpchayan.online
+User-agent: *
+Allow: /
+
+# Disallow specific directories if needed
+# Disallow: /admin/
+# Disallow: /lander/
+
+Sitemap: https://petrolpumpchayan.online/sitemap.xml
